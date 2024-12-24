@@ -24,10 +24,15 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-- **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-- **Automation Tools:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-- **Security:** ![Information Security](https://img.shields.io/badge/Information_Security-FF5733?style=flat&logo=security&logoColor=white)
+- **Programming & Scripting Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white), Google Script
+- **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white), ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white), ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+- **Infrastructure Management:** AWS Cloud, GCP, Azure, On-Premise, and DataCenter Compute
+- **Operating Systems:** Linux, Windows, MacOS
+- **Infrastructure & Security Tools:** Firewalls (SonicWall, Cisco), VPNs, Asterisk VoIP, Active Directory, Linux Servers
+- **Automation Tools:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white), CI/CD Pipelines
+- **Networking & Monitoring:** Network Monitoring Tools, Security Surveillance Systems
+- **Security & Compliance:** IT Compliance (ISO, SOC2), VAPT, Cybersecurity Audits
+- **Open Source:** Proficient in using and implementing Open Source solutions
 
 ## 📂 Projects & Contributions
 
