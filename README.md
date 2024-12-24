@@ -4,6 +4,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="200">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 **`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to automate tasks, enhance security, and streamline processes. My journey in the tech world has equipped me with a diverse skill set, and I'm excited to share my projects and contributions with you.
