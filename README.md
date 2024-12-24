@@ -1,4 +1,4 @@
-![Header](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="500">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Vijay+Chaurasia!)](https://git.io/typing-svg)
