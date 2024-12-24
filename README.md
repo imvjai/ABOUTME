@@ -1,10 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/your-username/header-image.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Vijay+Chaurasia!)](https://git.io/typing-svg)
-**`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
 **`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to automate tasks, enhance security, and streamline processes. My journey in the tech world has equipped me with a diverse skill set, and I'm excited to share my projects and contributions with you.
