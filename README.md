@@ -8,20 +8,23 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to auto
 
 ## 🚀 About Me
 
-- **Experience:** Currently working at [Carousell](https://carousell.com). Previously, I've had the opportunity to contribute to organizations like Airtel, Craterzone, and QA InfoTech. :contentReference[oaicite:0]{index=0}
+I'm an experienced professional with expertise in automation, cloud security, and information security. My skillset includes scripting, tool development, and designing robust solutions to solve complex technical challenges.
 
-- **Education:** Studied at JSS Academy of Technical Education.
+### **Certifications**
 
-- **Certifications:** [List any relevant certifications here]
+- **Google Certificate:** Sound the Alarm - Detection and Response
+- **Google Certification:** Assets, Threats, and Vulnerabilities
+- **Google Certification:** Networks and Network Security
+- **Google Certificate:** Connect and Protect - Networks and Network Security
+- **Google Certification:** Tools of the Trade - Linux and SQL
+- **Google Certification:** Foundations of Cybersecurity
+- **Google Certification:** Manage Security Risks
 
 ## 🛠️ Skills & Technologies
 
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
 - **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
 - **Automation Tools:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
 - **Security:** ![Information Security](https://img.shields.io/badge/Information_Security-FF5733?style=flat&logo=security&logoColor=white)
 
 ## 📂 Projects & Contributions
@@ -56,14 +59,13 @@ Here are some of the repositories I've been working on:
   - *Description:* Resources and scripts for conducting network VAPT.
   - *Repository:* [Network_VAPT](https://github.com/imvjai/automations/blob/main/infosec/Network_VAPT/README.md)
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)
 
-## 📫 Let's Connect!
+## 📨 Let's Connect!
 
 - **LinkedIn:** [Vijay Chaurasia](https://www.linkedin.com/in/imvijaychaurasia)
-
 - **GitHub:** [imvjai](https://github.com/imvjai)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss technology. Let's innovate and build something amazing together!
