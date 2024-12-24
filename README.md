@@ -19,7 +19,6 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 - **Google Certification:** Foundations of Cybersecurity
 - **Google Certification:** Manage Security Risks
 - **Jetking Computer Hardware and Networking Professional**
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 ## 🛠️ Skills & Technologies
 
@@ -32,7 +31,7 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 - **Networking & Monitoring:** Network Monitoring Tools, Security Surveillance Systems
 - **Security & Compliance:** IT Compliance (ISO, SOC2), VAPT, Cybersecurity Audits
 - **Open Source:** Proficient in using and implementing Open Source solutions
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 ## 📂 Projects & Contributions
 
 Here are some of the repositories I've been working on:
@@ -64,7 +63,7 @@ Here are some of the repositories I've been working on:
 - **Network Vulnerability Assessment and Penetration Testing (VAPT):**
   - *Description:* Resources and scripts for conducting network VAPT.
   - *Repository:* [Network_VAPT](https://github.com/imvjai/automations/blob/main/infosec/Network_VAPT/README.md)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 📊 GitHub Stats
 
