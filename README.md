@@ -67,10 +67,3 @@ Here are some of the repositories I've been working on:
   - *Description:* Resources and scripts for conducting network VAPT.
   - *Repository:* [Network_VAPT](https://github.com/imvjai/automations/blob/main/infosec/Network_VAPT/README.md)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 📨 Let's Connect!
-
-- **LinkedIn:** [Vijay Chaurasia](https://www.linkedin.com/in/imvijaychaurasia)
-- **GitHub:** [imvjai](https://github.com/imvjai)
-
-![Footer](https://user-images.githubusercontent.com/your-username/footer-image.png)
