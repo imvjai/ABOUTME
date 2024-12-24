@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to auto
 I'm an experienced professional with over 10 years in the IT domain, specializing in Information Security, Compliance Engineering, and Cloud Computing. My expertise lies in IT Compliance Operations, Security Operations, DevSecOps, and Infrastructure Management. I excel in building secure and resilient IT environments, safeguarding organizational infrastructure, and ensuring compliance with industry standards.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+
 ## 🛠️ Skills & Technologies
 
 - **Programming & Scripting Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white), Google Script
