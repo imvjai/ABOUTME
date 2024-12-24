@@ -8,10 +8,11 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to auto
 
 ## 🚀 About Me
 
-I'm an experienced professional with expertise in automation, cloud security, and information security. My skillset includes scripting, tool development, and designing robust solutions to solve complex technical challenges.
+I'm an experienced professional with over 10 years in the IT domain, specializing in Information Security, Compliance Engineering, and Cloud Computing. My expertise lies in IT Compliance Operations, Security Operations, DevSecOps, and Infrastructure Management. I excel in building secure and resilient IT environments, safeguarding organizational infrastructure, and ensuring compliance with industry standards.
 
 ### **Certifications**
 
+- **Google Cybersecurity Professional**
 - **Google Certificate:** Sound the Alarm - Detection and Response
 - **Google Certification:** Assets, Threats, and Vulnerabilities
 - **Google Certification:** Networks and Network Security
@@ -19,11 +20,12 @@ I'm an experienced professional with expertise in automation, cloud security, an
 - **Google Certification:** Tools of the Trade - Linux and SQL
 - **Google Certification:** Foundations of Cybersecurity
 - **Google Certification:** Manage Security Risks
+- **Jetking Computer Hardware and Networking Professional**
 
 ## 🛠️ Skills & Technologies
 
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-- **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 - **Automation Tools:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 - **Security:** ![Information Security](https://img.shields.io/badge/Information_Security-FF5733?style=flat&logo=security&logoColor=white)
 
