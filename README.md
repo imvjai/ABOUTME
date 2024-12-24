@@ -20,6 +20,7 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 - **Google Certification:** Manage Security Risks
 - **Jetking Computer Hardware and Networking Professional**
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 ## 🛠️ Skills & Technologies
 
 - **Programming & Scripting Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white), Google Script
