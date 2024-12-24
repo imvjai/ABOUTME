@@ -7,6 +7,10 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to auto
 
 ## 🚀 About Me
 I'm an experienced professional with over 10 years in the IT domain, specializing in Information Security, Compliance Engineering, and Cloud Computing. My expertise lies in IT Compliance Operations, Security Operations, DevSecOps, and Infrastructure Management. I excel in building secure and resilient IT environments, safeguarding organizational infrastructure, and ensuring compliance with industry standards.
+
+- 📫 How to reach me: vjai.chourasia@gmail.com
+- 📝 [Proessional background](https://www.linkedin.com/in/imvijaychaurasia)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
