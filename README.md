@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/your-username/header-image.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Vijay+Chaurasia!)](https://git.io/typing-svg)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 **`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
