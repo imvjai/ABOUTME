@@ -35,6 +35,15 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 
 ## 📂 Projects & Contributions
 Here are some of the repositories I've been working on:
+| **Project Name**                     | **Description**                                                              | **Repository Link**                                                                 |
+|--------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| AWS Security Group Report/Delete    | Automates the reporting and deletion of unused AWS security groups.          | [Repository](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-securitygroup-reportdelete/README.md) |
+| AWS Snapshot Report/Delete          | Manages AWS snapshots by generating reports and deleting outdated ones.      | [Repository](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-snapshot-reportdelete/README.md)      |
+| AWS Volume Report/Delete            | Automates the reporting and cleanup of unused AWS volumes.                   | [Repository](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-volume-reportdelete/README.md)        |
+| Access Management Automation        | Streamlines access management processes to enhance security.                 | [Repository](https://github.com/imvjai/automations/blob/main/automation/access_management/README.md)                 |
+| Google Workspace Audits             | Tools for auditing and securing Google Workspace environments.               | [Repository](https://github.com/imvjai/automations/blob/main/infosec/GoogleWorkSpace-Audits/README.md)               |
+| Network Vulnerability Assessment (VAPT) | Resources and scripts for conducting network VAPT. 
+
 
 ### 🔄 Automation
 
