@@ -30,6 +30,8 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imvjai.ABOUTME)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 📂 Projects & Contributions
