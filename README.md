@@ -19,7 +19,7 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 - **Google Certification:** Foundations of Cybersecurity
 - **Google Certification:** Manage Security Risks
 - **Jetking Computer Hardware and Networking Professional**
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ## 🛠️ Skills & Technologies
 
 - **Programming & Scripting Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white), Google Script
@@ -31,7 +31,7 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 - **Networking & Monitoring:** Network Monitoring Tools, Security Surveillance Systems
 - **Security & Compliance:** IT Compliance (ISO, SOC2), VAPT, Cybersecurity Audits
 - **Open Source:** Proficient in using and implementing Open Source solutions
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ## 📂 Projects & Contributions
 
 Here are some of the repositories I've been working on:
@@ -63,20 +63,14 @@ Here are some of the repositories I've been working on:
 - **Network Vulnerability Assessment and Penetration Testing (VAPT):**
   - *Description:* Resources and scripts for conducting network VAPT.
   - *Repository:* [Network_VAPT](https://github.com/imvjai/automations/blob/main/infosec/Network_VAPT/README.md)
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ## 📊 GitHub Stats
 
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ## 📨 Let's Connect!
 
 - **LinkedIn:** [Vijay Chaurasia](https://www.linkedin.com/in/imvijaychaurasia)
 - **GitHub:** [imvjai](https://github.com/imvjai)
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss technology. Let's innovate and build something amazing together!
-
----
-
-*Note: The badges and stats are dynamically generated to reflect my current skills and contributions.*
 
 ![Footer](https://user-images.githubusercontent.com/your-username/footer-image.png)
