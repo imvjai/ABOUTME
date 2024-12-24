@@ -5,6 +5,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
+**`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
+
 Welcome to my GitHub profile! I'm passionate about leveraging technology to automate tasks, enhance security, and streamline processes. My journey in the tech world has equipped me with a diverse skill set, and I'm excited to share my projects and contributions with you.
 
 ## 🚀 About Me
