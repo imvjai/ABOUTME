@@ -58,6 +58,10 @@ Here are some of the repositories I've been working on:
 ## 📊 GitHub Stats
 
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)
+
+![Vijay's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&hide=TeX&layout=compact)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 📨 Let's Connect!
