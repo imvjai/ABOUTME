@@ -13,6 +13,7 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical)
 
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - 📫 How to reach me: vjai.chourasia@gmail.com
 - 📝 [Proessional background](https://www.linkedin.com/in/imvijaychaurasia)
 
