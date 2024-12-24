@@ -64,6 +64,7 @@ Here are some of the repositories I've been working on:
   - *Description:* Resources and scripts for conducting network VAPT.
   - *Repository:* [Network_VAPT](https://github.com/imvjai/automations/blob/main/infosec/Network_VAPT/README.md)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 📊 GitHub Stats
 
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)
