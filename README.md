@@ -7,9 +7,8 @@
 Welcome to my GitHub profile! I'm passionate about leveraging technology to automate tasks, enhance security, and streamline processes. My journey in the tech world has equipped me with a diverse skill set, and I'm excited to share my projects and contributions with you.
 
 ## 🚀 About Me
-
 I'm an experienced professional with over 10 years in the IT domain, specializing in Information Security, Compliance Engineering, and Cloud Computing. My expertise lies in IT Compliance Operations, Security Operations, DevSecOps, and Infrastructure Management. I excel in building secure and resilient IT environments, safeguarding organizational infrastructure, and ensuring compliance with industry standards.
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ### **Certifications**
 
 - **Google Cybersecurity Professional**
