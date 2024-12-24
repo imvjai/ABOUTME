@@ -10,6 +10,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to auto
 ## 🚀 About Me
 I'm an experienced professional with over 10 years in the IT domain, specializing in Information Security, Compliance Engineering, and Cloud Computing. My expertise lies in IT Compliance Operations, Security Operations, DevSecOps, and Infrastructure Management. I excel in building secure and resilient IT environments, safeguarding organizational infrastructure, and ensuring compliance with industry standards.
 
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical)
+
 - 📫 How to reach me: vjai.chourasia@gmail.com
 - 📝 [Proessional background](https://www.linkedin.com/in/imvijaychaurasia)
 
