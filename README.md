@@ -42,34 +42,4 @@ Here are some of the repositories I've been working on:
 | AWS Volume Report/Delete            | Automates the reporting and cleanup of unused AWS volumes.                   | [Repository](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-volume-reportdelete/README.md)        |
 | Access Management Automation        | Streamlines access management processes to enhance security.                 | [Repository](https://github.com/imvjai/automations/blob/main/automation/access_management/README.md)                 |
 | Google Workspace Audits             | Tools for auditing and securing Google Workspace environments.               | [Repository](https://github.com/imvjai/automations/blob/main/infosec/GoogleWorkSpace-Audits/README.md)               |
-| Network Vulnerability Assessment (VAPT) | Resources and scripts for conducting network VAPT. 
-
-
-### 🔄 Automation
-
-- **AWS Security Group Report/Delete:**
-  - *Description:* Automates the reporting and deletion of unused AWS security groups.
-  - *Repository:* [aws-securitygroup-reportdelete](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-securitygroup-reportdelete/README.md)
-
-- **AWS Snapshot Report/Delete:**
-  - *Description:* Manages AWS snapshots by generating reports and deleting outdated ones.
-  - *Repository:* [aws-snapshot-reportdelete](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-snapshot-reportdelete/README.md)
-
-- **AWS Volume Report/Delete:**
-  - *Description:* Automates the reporting and cleanup of unused AWS volumes.
-  - *Repository:* [aws-volume-reportdelete](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-volume-reportdelete/README.md)
-
-### 🔐 InfoSec
-
-- **Access Management Automation:**
-  - *Description:* Streamlines access management processes to enhance security.
-  - *Repository:* [access_management](https://github.com/imvjai/automations/blob/main/automation/access_management/README.md)
-
-- **Google Workspace Audits:**
-  - *Description:* Tools for auditing and securing Google Workspace environments.
-  - *Repository:* [GoogleWorkSpace-Audits](https://github.com/imvjai/automations/blob/main/infosec/GoogleWorkSpace-Audits/README.md)
-
-- **Network Vulnerability Assessment and Penetration Testing (VAPT):**
-  - *Description:* Resources and scripts for conducting network VAPT.
-  - *Repository:* [Network_VAPT](https://github.com/imvjai/automations/blob/main/infosec/Network_VAPT/README.md)
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+| Network Vulnerability Assessment (VAPT) | Resources and scripts for conducting network VAPT.              | [Repository](https://github.com/imvjai/automations/blob/main/infosec/GoogleWorkSpace-Audits/README.md)               |
