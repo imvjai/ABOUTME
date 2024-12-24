@@ -1,8 +1,13 @@
 ![Header](https://user-images.githubusercontent.com/your-username/header-image.png)
 
 # 👋 Hello, I'm Vijay Chaurasia!
-
 **`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Awesome+GitHub+Profiles)](https://git.io/typing-svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to automate tasks, enhance security, and streamline processes. My journey in the tech world has equipped me with a diverse skill set, and I'm excited to share my projects and contributions with you.
 
